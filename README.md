@@ -2,7 +2,7 @@
 
 Medium article link: https://medium.com/@abdulvahed.shaik/the-shaky-foundations-of-clinical-function-models-d046aa08f737
 
-Demo youtube video link: 
+Demo youtube video link: https://www.youtube.com/watch?v=-F1PzTpgmVU
 
 Slides link: https://docs.google.com/presentation/d/1NDyj3aLK2azJpSufS6EM7qHBvTbzdMN8/edit?usp=sharing&ouid=106038945540907090690&rtpof=true&sd=true
 
